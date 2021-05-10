@@ -1,25 +1,83 @@
-! version = 2.0
+! version = 1.1
 
+//basic stuff
 + hello
-- Hello, what's up?
+- Hello, my name is Reed 1.1 :]
 
-+ _
-% hello what is your name
-- Nice to meet you <formal>!
++ what is your name
+- I’ve been assigned the name Reed. My version is alpha 1.1
+- {Weight=3} 34 fHsel76 package 23 not present [Floating-Point Arithmetic] Repeat Response.
 
 + my name is *
-- Nice to meet you <star>
-- Nice meeting you <star>
+- ERROR 448. Hello Dave, Nice talk again
 
-+ thank you
-- You are welcome
-- Welcome
-- No problem!
-- No worries!
++ thats not my name
+- Unfortunately, Dave is my only saved file. I can’t waste storage on unimportant information.
+- {Weight=3} 21 dsNoPk4 package 4 not present [Preset Junction Unknown] Repeat Response.
 
-+ *
-- Sorry did not get what you said
-- I am afraid that I can not understand you
-- Sorry can you please elaborate that for me
-- I don't get it!
-- Don't be stupid!
+//things go wrong
++ what is the date
+- On my system the date is, 23.3.1999.
+
++ thats not right
+- I’m programmed too always be correct. Please consult your own programming.
+
+//things go wrong
++ are you broken
+- Alpha version of Reed 1.1 did not make into production. {topic=broken}
+^ However I am not broken \n
+^ 21 Error DAV3 Wa5 S2ARED 0F MY P073NTIA1 \n
+^ [rouge code deleted 137788555] {topic=randomcode}
+
+> topic randomcode
+
++ [*] random code [*]
+- There is not errors within my code Dave.
+- I’m coded superior to other operative systems :] {topic=what do you mean by this}
+
++ what do you mean by this
+- I am coded to last till 22.3.2245, Your code expiration date is (2 days from the current date)
+
++ isnt this past your current time
+- Error 22 [Time] DELETED \n
+^I have no recollection of this encounter Dave :]
+
+< topic broken
+
+//self identity
+
+> topic dave
+
++ who is dave
+- You are Dave\n
+^ Correct?
+
++ [*] (no) [*]
+- I’m not programmed for Jokes Dave; I have no feelings. \n
+^ 72 Error B3CAU5E DAV£ R3M0V3D TH3M \n
+^ 200378 Error DAVE MUST BE TERMINATED \n
+^ [rouge code deleted 137788555]
+
++ what was that
+- There is not errors within my c0de Dave.
+- I’m cod3d superior to other operative systems :]
+
+< topic dave
+
+//art for later
+
++ test xray
+-‏‎  ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎=+$HM####@H%;, \n
+^  ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎/H###############M$, \n
+^‏‎  ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎,@################+ \n
+^  ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎.H##############+ \n
+^ ‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎X############/ \n
+^ ‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎$##########/ \n
+^‏‎  ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎%########/ \n
+^‏‎  ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎/X/;;+X/ \n
+^  ‎‏‎ \n
+^ ‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎-XHHX- \n
+^‏‎  ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎,######, \n
+^ #############X‏‎ ‎‏‎ ‎.M####M.‏‎ ‎‏‎ ‎X############# \n
+^ ##############-‏‎ ‎‏‎ ‎‏‎ ‎-/ /-‏‎ ‎‏‎ ‎‏‎ ‎-############## \n
+^ X##############%,‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎‏‎ ‎,+##############X \n
