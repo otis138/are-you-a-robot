@@ -1,14 +1,14 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
+</style>
 * {
-  font-family: "Inter", Arial;
+  font-family: 'Roboto Mono', monospace;
   font-size: 12pt;
   margin: 0;
   box-sizing: border-box;
 }
 
 body {
-  background: #f2f2f2;
+  background: url(/images/AppleWorks-1.3-screen-shot.jpg);
 }
 
 .title {
@@ -28,7 +28,7 @@ body {
 }
 
 .chat {
-  background: white;
+  background: black;
   box-shadow: 10px 10px 0px blueviolet;
   overflow: scroll;
   height: 100%;
@@ -63,8 +63,8 @@ body {
 .messages .bot {
   text-align: left;
   margin-right: auto;
-  background: black;
-  color: white;
+  background:black;
+  color: green;
 }
 
 .messages .self {
@@ -83,7 +83,7 @@ body {
   bottom: -1px;
   padding: 10px 0px 20px;
   background: white;
-}
+}(
 
 .actions input {
   height: 30px;
