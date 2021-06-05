@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
 </style>
-* {
+ {
   font-family: 'Roboto Mono', monospace;
   font-size: 12pt;
   margin: 0;
@@ -20,7 +20,7 @@ body {
 
 .title h1 {
   letter-spacing: 0.75px;
-  color: blueviolet;
+  color: rgb(63, 206, 75);
 }
 
 .wrapper {
@@ -29,7 +29,7 @@ body {
 
 .chat {
   background: black;
-  box-shadow: 10px 10px 0px blueviolet;
+  box-shadow: 10px 10px 0px rgb(0, 0, 0);
   overflow: scroll;
   height: 100%;
   display: flex;
@@ -57,7 +57,7 @@ body {
 }
 
 .messages div a:hover {
-  color: blueviolet;
+  color: rgb(0, 0, 0);
 }
 
 .messages .bot {
@@ -71,9 +71,9 @@ body {
   text-align: right;
   margin-right: 20px;
   margin-left: auto;
-  background: white;
-  border: 1px solid blueviolet;
-  color: blueviolet;
+  background: rgb(63, 206, 75);
+  border: 1px solid rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
 }
 
 .actions {
@@ -83,7 +83,7 @@ body {
   bottom: -1px;
   padding: 10px 0px 20px;
   background: white;
-}(
+}
 
 .actions input {
   height: 30px;
@@ -97,7 +97,7 @@ body {
 }
 
 input:focus {
-  border-bottom: 2px solid blueviolet;
+  border-bottom: 2px solid rgb(0, 0, 0);
 }
 
 @media all and (min-width: 720px) {
